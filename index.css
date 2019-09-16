@@ -1,0 +1,38 @@
+
+      #login .page__background {
+        background-image: url(img/2.jpg);
+        }
+
+        #home .page__background {
+            background-image: url(img/4.jpg);
+            }
+    
+
+
+            #movie_details .page__background {
+              background-image: url(img/4.jpg);
+              }
+              #cart .page__background {
+                background-image: url(img/4.jpg);
+                }
+
+
+
+
+
+
+
+
+
+
+
+
+        .center {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            width: 50%;
+            
+          }
+         
+    
